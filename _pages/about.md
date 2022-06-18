@@ -14,6 +14,12 @@ I am a Staff Researcher (Senior Researcher) with the [Photonics Theory Group](ht
 
 I am also a Research Fellow with the [Irish Photonic Integration Centre](https://www.ipic.ie/).
 
-My interests lie in materials theory in simulation, focusing on (i) developing fundamental theoretical understanding of the electronic and optical properties of novel and emerging semiconductor material systems, and (ii) developing models and software to enable multi-scale simulations of semiconductor materials and devices, building key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models suitable to quantitatively predict technologically relevant properties in semiconductor materials and nanostructures.
+My interests lie in materials theory and simulation, focusing on:
 
-My experience ranges from performing first principles calculations and analysis of fundamental material properties, through the derivation and parametrisation of empirical models for multi-scale simulations, as well as software implementations of these models (including enabling interoperability between proprietary, open-source and self-developed software packages).
+*Developing fundamental theoretical understanding of the properties of emerging semiconductor material systems
+
+*Developing models and software to enable multi-scale simulations of semiconductor materials and devices
+
+The overarching theme of my research is to build key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models suitable to quantitatively predict technologically relevant properties in semiconductor materials and nanostructures.
+
+My experience ranges from performing first principles calculations and analysis of fundamental material properties, through the derivation and parametrisation of empirical models for multi-scale simulations, in addition to software implementations of these models.
