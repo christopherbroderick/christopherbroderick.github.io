@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Experience
+Employment
 ======
 * 10/2021 - present: Visiting Research Fellow
   * University of California, Santa Barbara, U.S.A.
