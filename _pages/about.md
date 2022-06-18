@@ -19,6 +19,6 @@ My interests lie in materials theory and simulation, with a focus on developing:
   * Fundamental theoretical understanding of the properties of emerging semiconductor material systems
   * Models and software to enable multi-scale simulations of semiconductor materials and devices
 
-The overarching theme of my research is to build key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models suitable to quantitatively predict technologically relevant properties in semiconductor materials and nanostructures.
+The overarching theme of my research is to build key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models, with the aim of enabling quantitative prediction of technologically-relevant properties in semiconductor materials and nanostructures.
 
-My experience ranges from performing first principles calculations and analysis of fundamental material properties, through the derivation and parametrisation of empirical models for multi-scale simulations, in addition to software implementations of these models.
+My experience ranges from performing first principles calculations and analysis of fundamental material properties, through the derivation and parametrisation of empirical models for multi-scale simulations, software implementations of these models, and in silico design of semiconductor nanostructures for device applications.
