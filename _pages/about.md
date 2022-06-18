@@ -16,6 +16,7 @@ I am also a Research Fellow with the [Irish Photonic Integration Centre](https:/
 
 My interests lie in materials theory and simulation, focusing on:
 
+======
 *Developing fundamental theoretical understanding of the properties of emerging semiconductor material systems
 
 *Developing models and software to enable multi-scale simulations of semiconductor materials and devices
