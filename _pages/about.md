@@ -10,7 +10,9 @@ redirect_from:
 
 I am a theoretical and computational condensed matter physicist, currently working in the [Van de Walle Computational Materials Group](https://vandewalle.materials.ucsb.edu/) at the University of California, Santa Barbara, as a Marie Skłodowska-Curie Individual Fellow.
 
-I am a Staff Researcher (Senior Researcher) with the [Photonics Theory Group](https://www.tyndall.ie/theory) at Tyndall National Institute, University College Cork, Ireland, currently on secondment with at the University of California, Santa Barbara, U.S.A. as a European Union Marie Skłodowska-Curie Global Fellow. I am also a Research Fellow with the [Irish Photonic Integration Centre](https://www.ipic.ie/).
+I am a Staff Researcher (Senior Researcher) with the [Photonics Theory Group](https://www.tyndall.ie/theory) at Tyndall National Institute, University College Cork, Ireland, currently on secondment with at the University of California, Santa Barbara, U.S.A. as a European Union Marie Skłodowska-Curie Global Fellow.
+
+I am also a Research Fellow with the [Irish Photonic Integration Centre](https://www.ipic.ie/).
 
 My interests lie in materials theory in simulation, focusing on (i) developing fundamental theoretical understanding of the electronic and optical properties of novel and emerging semiconductor material systems, and (ii) developing models and software to enable multi-scale simulations of semiconductor materials and devices, building key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models suitable to quantitatively predict technologically relevant properties in semiconductor materials and nanostructures.
 
