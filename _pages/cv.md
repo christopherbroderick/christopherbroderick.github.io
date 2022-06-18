@@ -9,19 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Certificate in Professional Skills for Research Leaders (2018)
-  * Institute of Leadership and Management
-
-* Ph.D. in Physics (2010 - 2015)
-  * University College Cork, Ireland
-  
-* B.Sc. (Hons.) in Physics (2006-2010)
-  * University College Cork, Ireland
-
-
-Work experience
+Experience
 ======
 * 10/2021 - present: Visiting Research Fellow
   * University of California, Santa Barbara, U.S.A.
@@ -37,10 +25,24 @@ Work experience
 
 * 10/2010 - 02/2015: Ph.D. student
   * University College Cork, Ireland
+
+
+Education
+======
+* Certificate in Professional Skills for Research Leaders (2018)
+  * Institute of Leadership and Management
+
+* Ph.D. in Physics (2010 - 2015)
+  * University College Cork, Ireland
+  
+* B.Sc. (Hons.) in Physics (2006-2010)
+  * University College Cork, Ireland
+
   
 Grants, awards and honours
 ======
 * "Outstanding Referee 2021" award from Institute of Physics Publishing, for the journal J. Phys. D: Appl. Phys.
+  
   
 Professional affiliations
 ======
