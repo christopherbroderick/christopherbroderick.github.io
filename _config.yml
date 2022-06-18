@@ -84,37 +84,15 @@ author:
   avatar           : "cbroderick_headshot.jpg"
   bio              : "Marie Skłodowska-Curie Individual Fellow"
   location         : "Santa Barbara, CA"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_wPgLfcAAAAJ"
+  employer         : University of California, Santa Barbara
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Christopher-Broderick"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "christopherbroderick"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/christopher-broderick-028026b4/"
+  googlescholar    : "https://scholar.google.com/citations?user=_wPgLfcAAAAJ"
   orcid            : "https://orcid.org/0000-0002-5370-7582"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  researchgate     : "https://www.researchgate.net/profile/Christopher-Broderick"
+  github           : "christopherbroderick"
+  lastfm           :
   twitter          : "TyndallPTG"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
