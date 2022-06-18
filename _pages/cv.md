@@ -35,7 +35,7 @@ Education
 * Ph.D. in Physics (2010 - 2015)
   * University College Cork, Ireland
   
-* B.Sc. (Hons.) in Physics (2006-2010)
+* B.Sc. (Hons.) in Physics (2006 - 2010)
   * University College Cork, Ireland
 
   
