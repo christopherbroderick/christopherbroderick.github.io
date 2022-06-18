@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* Certificate in Professional Skills for Research Leaders, Institute of Leadership and Management (2018)
-* Ph.D. in Physics, University College Cork, Ireland (2010 - 2015)
-* B.Sc. (Hons.) in Physics, University College Cork, Ireland (2006-2010)
+* Certificate in Professional Skills for Research Leaders (2018)
+  * Institute of Leadership and Management
+
+* Ph.D. in Physics (2010 - 2015)
+  * University College Cork, Ireland
+  
+* B.Sc. (Hons.) in Physics (2006-2010)
+  * University College Cork, Ireland
+
 
 Work experience
 ======
