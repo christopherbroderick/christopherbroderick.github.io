@@ -16,8 +16,8 @@ I am also a Research Fellow with the [Irish Photonic Integration Centre](https:/
 
 My interests lie in materials theory and simulation, with a focus on developing:
 
-  * Fundamental theoretical understanding of the properties of emerging semiconductor material systems
-  * Models and software to enable multi-scale simulations of semiconductor materials and devices
+  * Fundamental theoretical understanding of the properties of emerging semiconductor material systems, and
+  * Models and software to enable multi-scale simulations of semiconductor materials and nanostructures for device applications.
 
 The overarching theme of my research is to build key insights obtained from atomistic electronic structure calculations into atomistic and continuum empirical models, with the aim of enabling quantitative prediction of technologically-relevant properties in semiconductor materials and nanostructures.
 
