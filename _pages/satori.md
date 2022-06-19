@@ -10,6 +10,8 @@ author_profile: true
 Semiconductor crystal phase engineering: new platforms for future photonics (SATORI)
 ======
 
+![image](https://christopherbroderick.github.io/files/h2020_msca_if_satori_logo.png)
+
 [SATORI](https://cordis.europa.eu/project/id/101030927) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the European Commission.
 
 The Fellowship begins with a two-year outgoing phase at the University of California, Santa Barbara, U.S.A., during which time I will work as a member of the Computational Materials Group under the supervision of [Prof. Chris Van de Walle](https://scholar.google.com/citations?user=jY5B7zkAAAAJ).
