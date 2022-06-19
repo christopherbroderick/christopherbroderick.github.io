@@ -12,11 +12,11 @@ author_profile: true
 Semiconductor crystal phase engineering: new platforms for future photonics (SATORI)
 ======
 
-[SATORI](https://cordis.europa.eu/project/id/101030927) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the European Commission.
+[SATORI](https://cordis.europa.eu/project/id/101030927) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the [European Commission](https://marie-sklodowska-curie-actions.ec.europa.eu/).
 
-The Fellowship begins with a two-year outgoing phase at the University of California, Santa Barbara, U.S.A., during which time I will work as a member of the Computational Materials Group under the supervision of [Prof. Chris Van de Walle](https://scholar.google.com/citations?user=jY5B7zkAAAAJ).
+The Fellowship begins with a two-year outgoing phase at the University of California, Santa Barbara, U.S.A., during which time I will work as a member of the [Computational Materials Group](https://vandewalle.materials.ucsb.edu/) under the supervision of [Prof. Chris Van de Walle](https://scholar.google.com/citations?user=jY5B7zkAAAAJ).
 
-The one-year reintegration phase of the Fellowship will take place at Tyndall National Institute, Ireland, where I will rejoin the Photonics Theory Group under the supervision of [Prof. Eoin O'Reilly](https://scholar.google.com/citations?user=L3IKI0cAAAAJ).
+The one-year reintegration phase of the Fellowship will take place at Tyndall National Institute, Ireland, where I will rejoin the [Photonics Theory Group](https://www.tyndall.ie/theory) under the supervision of [Prof. Eoin O'Reilly](https://scholar.google.com/citations?user=L3IKI0cAAAAJ).
 
 
 Project description
@@ -35,7 +35,7 @@ A key outcome of the Fellowship will be the release of an open-source library of
 Project outputs
 ======
 
-As a participating project in the European Commission's [Open Research Data Pilot](https://www.openaire.eu/what-is-the-open-research-data-pilot), all publications and associated data arising from SATORI will be provided on a free, open-access basis.
+As a participating project in the European Commission's [Open Research Data Pilot](https://www.openaire.eu/what-is-the-open-research-data-pilot), all publications and associated data arising from SATORI will be made publicly available on a free, open-access basis.
 
 The current version of the SATORI Data Management Plan can be downloaded below. Publications and presentations related to SATORI will be listed on this website, where links to open-access versions of accepted manuscripts and associated data will be provided.
 
