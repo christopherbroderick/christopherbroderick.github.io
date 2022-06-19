@@ -22,9 +22,9 @@ Education
 * Certificate in Professional Skills for Research Leaders, Institute of Leadership and Management (2018)
 * Ph.D. in Physics, University College Cork, Ireland (2010 - 2015)
 * B.Sc. (Hons.) in Physics, University College Cork, Ireland (2006 - 2010)
-
+* 
   
-Grants, awards and honours
+Awards and honours
 ======
 * Irish Photonic Integration Centre (IPIC) Publication Prize (2022)
 * "Outstanding Referee 2021" award from Institute of Physics Publishing, for the journal J. Phys. D: Appl. Phys. (2022)
@@ -40,6 +40,14 @@ Grants, awards and honours
 * Title of College Scholar, University College Cork (2010)
 * Title of College Scholar, University College Cork (2009)
 * Title of College Scholar, University College Cork (2008)
+
+  
+Grants
+======
+* Marie Skłodowska-Curie Global Fellowshipm European Commission (2021 - 2024)
+* Postdoctoral Fellowships in the Sciences, National University of Ireland (2018 - 2020)
+* Charlemont Grant, Royal Irish Academy (2019)
+* EMBARK Postgraduate Scholarship, Irish Research Council (2010 - 2013)
  
   
 Professional affiliations
