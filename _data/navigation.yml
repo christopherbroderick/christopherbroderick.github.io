@@ -1,5 +1,9 @@
 # main links links
-main:
+main:    
+
+  - title: "SATORI"
+    url: /teaching/    
+    
   - title: "CV"
     url: /cv/
     
@@ -7,10 +11,7 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/    
-
-  - title: "SATORI"
-    url: /teaching/    
+    url: /talks/
     
   - title: "Software"
     url: /portfolio/
