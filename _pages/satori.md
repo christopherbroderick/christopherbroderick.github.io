@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+![image](https://christopherbroderick.github.io/files/h2020_msca_if_satori_logo.png)
+
 Semiconductor crystal phase engineering: new platforms for future photonics (SATORI)
 ======
-
-![image](https://christopherbroderick.github.io/files/h2020_msca_if_satori_logo.png)
 
 [SATORI](https://cordis.europa.eu/project/id/101030927) is a three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the European Commission.
 
