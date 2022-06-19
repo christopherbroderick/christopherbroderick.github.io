@@ -24,6 +24,14 @@ Education
 * B.Sc. (Hons.) in Physics, University College Cork, Ireland (2006 - 2010)
 
   
+Grants
+======
+* Marie Skłodowska-Curie Global Fellowship, European Commission (2021 - 2024)
+* Postdoctoral Fellowships in the Sciences, National University of Ireland (2018 - 2020)
+* Charlemont Grant, Royal Irish Academy (2019)
+* EMBARK Postgraduate Scholarship, Irish Research Council (2010 - 2013)
+
+  
 Awards and honours
 ======
 * Irish Photonic Integration Centre (IPIC) Publication Prize (2022)
@@ -40,14 +48,6 @@ Awards and honours
 * Title of College Scholar, University College Cork (2010)
 * Title of College Scholar, University College Cork (2009)
 * Title of College Scholar, University College Cork (2008)
-
-  
-Grants
-======
-* Marie Skłodowska-Curie Global Fellowshipm European Commission (2021 - 2024)
-* Postdoctoral Fellowships in the Sciences, National University of Ireland (2018 - 2020)
-* Charlemont Grant, Royal Irish Academy (2019)
-* EMBARK Postgraduate Scholarship, Irish Research Council (2010 - 2013)
  
   
 Professional affiliations
