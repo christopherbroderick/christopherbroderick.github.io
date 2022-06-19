@@ -37,6 +37,6 @@ As a participating project in the European Commission's [Open Research Data Pilo
 
 The current version of the SATORI Data Management Plan can be downloaded below. Publications and presentations related to SATORI will be listed on this website, where links to open-access versions of accepted manuscripts and associated data will be provided.
 
-Deliverable 1.1 - Data Management Plan
+Deliverable 1.1 - [Data Management Plan](https://christopherbroderick.github.io/files/h2020_msca_if_satori_deliverable_1.1_version_1.0.pdf)
 
 Stay tuned for updates, and feel free get in touch via any of the platforms linked on my [homepage](https://christopherbroderick.github.io) if you are interested in discussing this work!
