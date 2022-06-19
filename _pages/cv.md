@@ -22,7 +22,7 @@ Education
 * Certificate in Professional Skills for Research Leaders, Institute of Leadership and Management (2018)
 * Ph.D. in Physics, University College Cork, Ireland (2010 - 2015)
 * B.Sc. (Hons.) in Physics, University College Cork, Ireland (2006 - 2010)
-* 
+
   
 Awards and honours
 ======
@@ -52,7 +52,7 @@ Grants
   
 Professional affiliations
 ======
-* International Conference on Numerical Simulation of Optoelectronic Devices (NUSOD), Program Committee (Member)
+* Numerical Simulation of Optoelectronic Devices (NUSOD), Program Committee (Member)
 * Institute of Physics (Member)
 * European Physical Society (Member)
 * Materials Research Society (Member)
