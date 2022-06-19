@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Project overview
+Semiconductor crystal phase engineering: new platforms for future photonics (SATORI)
 ======
 
-SATORI - Semiconductor crystal phase engineering: new platforms for future photonics - is my three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the European Commission. The Fellowship begins with a two-year outgoing phase at the University of California, Santa Barbara, U.S.A., during which time I will work as a member of the Computational Materials Group under the supervision of Prof. Chris Van de Walle. The one-year reintegration phase of the Fellowship will take place at Tyndall National Institute, Ireland, where I will rejoin the Photonics Theory Group under the supervision of Prof. Eoin O'Reilly.
+SATORI is my three-year Marie Skłodowska-Curie Individual (Global) Fellowship in physics, funded by the European Commission. The Fellowship begins with a two-year outgoing phase at the University of California, Santa Barbara, U.S.A., during which time I will work as a member of the Computational Materials Group under the supervision of Prof. Chris Van de Walle. The one-year reintegration phase of the Fellowship will take place at Tyndall National Institute, Ireland, where I will rejoin the Photonics Theory Group under the supervision of Prof. Eoin O'Reilly.
 
 
 Project description
